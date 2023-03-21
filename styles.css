@@ -21,6 +21,8 @@ h1 {
 
 .container {
   display: flex;
+    align-items: center;
+  justify-content: center;
   background-color: #ffc562;
   max-width: 700px;
   margin: auto;
